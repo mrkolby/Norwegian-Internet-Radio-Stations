@@ -210,9 +210,7 @@ http://83.143.85.115:8500/listen.pls
 http://212.125.206.42:8006/listen.pls
 #EXTINF:0,PVest
 http://sc7.spacialnet.com:22204/listen.pls
-#EXTINF:0,GLR Live
-http://nettradio.grafisksenter.no:80/glr-med
-#EXTINF:0,MMRadio
+#EXTINF:0,MMRadio
 http://213.158.233.199:8128/listen.pls
 #EXTINF:0,Radio 102
 http://downstream.radio.raw.no:8000/radio102
