@@ -135,7 +135,7 @@ http://lyd.uia.no:8010/listen.pls
 #EXTINF:0,Studentradioen i Gjøvik
 http://stream.hig.no:8000
 #EXTINF:0,Radio Grenland
-http://91.189.181.146:8010/listen.pls
+http://204.232.197.158:8020/listen.pls
 #EXTINF:0,Radio Tønsberg
 http://radio.itvestfold.no:9060/
 #EXTINF:0,Radio Drammen
