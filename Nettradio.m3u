@@ -126,7 +126,7 @@ http://stream.radiosmaalenene.no:8010/listen.pls
 http://204.232.197.158:8008/listen.pls
 #EXTINF:0,Radio Nordkapp
 http://www.radionordkapp.no/listen.m3u
-#EXTINF:0,Studentradion i Trondheim
+#EXTINF:0,Radio Revolt
 http://streamer.studentradion.no:8000/live128
 #EXTINF:0,Studentadioen i Bergen
 http://skrue.ss.uib.no:8000/listen.pls
