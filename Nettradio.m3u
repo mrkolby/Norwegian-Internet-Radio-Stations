@@ -218,8 +218,6 @@ http://nettradio.grafisksenter.no/loland-high.m3u
 http://sc7.spacialnet.com:22204/listen.pls
 #EXTINF:0,GLR Live
 http://nettradio.grafisksenter.no:80/glr-med
-#EXTINF:0,Innlandet Nærradio
-http://nettradio.grafisksenter.no:80/innlandet-med
 #EXTINF:0,MMRadio
 http://213.158.233.199:8128/listen.pls
 #EXTINF:0,Radio 102
