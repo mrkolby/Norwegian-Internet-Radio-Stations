@@ -128,8 +128,8 @@ http://204.232.197.158:8008/listen.pls
 http://www.radionordkapp.no/listen.m3u
 #EXTINF:0,Radio Revolt
 http://streamer.studentradion.no:8000/live128
-#EXTINF:0,Studentadioen i Bergen
-http://skrue.ss.uib.no:8000/listen.pls
+#EXTINF:0,Studentradioen i Bergen
+http://radio.srib.no:8888/srib.mp3.m3u
 #EXTINF:0,Studentradioen i Kristiansand
 http://icecast.hia.no:80/studentradioen128
 #EXTINF:0,Stavanger Studentradio
