@@ -30,6 +30,8 @@ http://lyd.nrk.no/nrk_radio_super_mp3_h
 http://lyd.nrk.no/nrk_radio_gull_mp3_h
 #EXTINF:0,NRK Jazz
 http://lyd.nrk.no/nrk_radio_jazz_mp3_h
+#EXTINF:0,NRK KORK
+http://lyd.nrk.no/nrk_radio_kork_aac_h
 #EXTINF:0,NRK Sport
 http://lyd.nrk.no/nrk_radio_sport_mp3_h
 #EXTINF:0,NRK Oslofjord
