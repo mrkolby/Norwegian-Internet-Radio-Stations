@@ -118,8 +118,6 @@ http://radiometro.no/metrolisten_buskerud.m3u
 http://radiometro.no/metrolisten_mjosbyene.m3u
 #EXTINF:0,Radio Metro Østfold
 http://radiometro.no/metrolisten_ostfold.m3u
-#EXTINF:0,Radio Tango
-http://stream.radiotango.no:8000/radiotango.m3u
 #EXTINF:0,Radio Nova
 http://stream.radionova.no:80/radionova-320.mp3
 #EXTINF:0,Radio Smaalenene
