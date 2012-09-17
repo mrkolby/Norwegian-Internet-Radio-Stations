@@ -192,8 +192,6 @@ http://83.143.85.115:8900/listen.pls
 http://auby.no-ip.com/static/playlists/radiomix.m3u
 #EXTINF:0,Radio Latin-Amerika
 http://mp3.sc.kq.no:8000/latinam.m3u
-#EXTINF:0,RadioVolum
-http://gugel.no/listen.pls
 #EXTINF:0,Radio Atlantic
 http://91.189.181.146:8020/listen.pls
 #EXTINF:0,Radio Filadelfia
