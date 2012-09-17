@@ -105,7 +105,7 @@ http://stream.sbsradio.no:8000/rockklassiker.aac
 #EXTINF:0,Radio NRJ
 http://radio.nrj.net/norway/
 #EXTINF:0,KLEM FM
-http://radio.nrj.net/klemfm
+http://klemfm.no/audio/klemfm.pls
 #EXTINF:0,HARD FM
 http://files.hard.fm/listen.pls
 #EXTINF:0,Radio Metro
