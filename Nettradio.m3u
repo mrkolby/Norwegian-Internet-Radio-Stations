@@ -123,7 +123,7 @@ http://stream.radionova.no:80/fm993.mp3
 #EXTINF:0,Radio Smaalenene
 http://stream.radiosmaalenene.no:8010/listen.pls
 #EXTINF:0,Radio Ålesund
-http://212.33.131.91:8000
+http://204.232.197.158:8008/listen.pls
 #EXTINF:0,Radio Nordkapp
 http://www.radionordkapp.no/listen.m3u
 #EXTINF:0,Studentradion i Trondheim
