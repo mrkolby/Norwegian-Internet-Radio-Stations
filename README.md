@@ -1,4 +1,4 @@
-Norwegian Internet Radio in iTunes
-==================================
+List of Norwegian Internet Radio Stations
+=========================================
 
-Installs a script in ~/Library/iTunes/Scripts for updating a bunch of Internet Radio channels in iTunes without cluttering the iTunes Library.
+To add the stations to a playlist without cluttering the iTunes Library, hold down the option ALT button while dropping Nettradio.m3u in the iTunes sidebar.

@@ -1,269 +1,270 @@
 #EXTM3U
-#EXTINF:-1,NRK P1
+#EXTINF:1,Nettradio
+#EXTINF:0,NRK P1
 http://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_h
-#EXTINF:-1,NRK P2
+#EXTINF:0,NRK P2
 http://lyd.nrk.no/nrk_radio_p2_mp3_h
-#EXTINF:-1,NRK P3
+#EXTINF:0,NRK P3
 http://lyd.nrk.no/nrk_radio_p3_mp3_h
-#EXTINF:-1,NRK Pyro
+#EXTINF:0,NRK Pyro
 http://lyd.nrk.no/nrk_radio_p3_pyro_mp3_h
-#EXTINF:-1,NRK Radioresepsjonen
+#EXTINF:0,NRK Radioresepsjonen
 http://lyd.nrk.no/nrk_radio_p3_radioresepsjonen_mp3_h
-#EXTINF:-1,NRK National Rap Show
+#EXTINF:0,NRK National Rap Show
 http://lyd.nrk.no/nrk_radio_p3_national_rap_show_mp3_h
-#EXTINF:-1,NRK mPetre
+#EXTINF:0,NRK mPetre
 http://lyd.nrk.no/nrk_radio_mp3_mp3_h
-#EXTINF:-1,NRK Alltid Klassisk
+#EXTINF:0,NRK Alltid Klassisk
 http://lyd.nrk.no/nrk_radio_klassisk_mp3_h
-#EXTINF:-1,NRK Alltid Nyheter
+#EXTINF:0,NRK Alltid Nyheter
 http://lyd.nrk.no/nrk_radio_alltid_nyheter_mp3_h
-#EXTINF:-1,NRK Sámi Radio
+#EXTINF:0,NRK Sámi Radio
 http://lyd.nrk.no/nrk_radio_sami_mp3_h
-#EXTINF:-1,NRK Stortinget
+#EXTINF:0,NRK Stortinget
 http://radio.hiof.no/nrk-stortinget-128
-#EXTINF:-1,NRK Alltid Folkemusikk
+#EXTINF:0,NRK Alltid Folkemusikk
 http://lyd.nrk.no/nrk_radio_folkemusikk_mp3_h
-#EXTINF:-1,NRK Super
+#EXTINF:0,NRK Super
 http://lyd.nrk.no/nrk_radio_super_mp3_h
-#EXTINF:-1,NRK Gull
+#EXTINF:0,NRK Gull
 http://lyd.nrk.no/nrk_radio_gull_mp3_h
-#EXTINF:-1,NRK Jazz
+#EXTINF:0,NRK Jazz
 http://lyd.nrk.no/nrk_radio_jazz_mp3_h
-#EXTINF:-1,NRK Sport
+#EXTINF:0,NRK Sport
 http://lyd.nrk.no/nrk_radio_sport_mp3_h
-#EXTINF:-1,NRK Oslofjord
+#EXTINF:0,NRK Oslofjord
 http://radio.hiof.no/nrk-oslofjord-128
-#EXTINF:-1,NRK Urørt
+#EXTINF:0,NRK Urørt
 http://lyd.nrk.no/nrk_radio_p3_urort_mp3_h
-#EXTINF:-1,P4 Lyden av Norge
+#EXTINF:0,P4 Lyden av Norge
 http://www.p4.no/lyttesenter/p4_norge.m3u
-#EXTINF:-1,P4 Bandit
+#EXTINF:0,P4 Bandit
 http://www.p4.no/lyttesenter/p4_bandit.m3u
-#EXTINF:-1,P4 Ballade
+#EXTINF:0,P4 Ballade
 http://www.p4.no/lyttesenter/p4_ballade.m3u
-#EXTINF:-1,P4 Hits
+#EXTINF:0,P4 Hits
 http://www.p4.no/lyttesenter/p4_hits.m3u
-#EXTINF:-1,P4 Radio Retro
+#EXTINF:0,P4 Radio Retro
 http://www.p4.no/lyttesenter/p4_radioretro.m3u
-#EXTINF:-1,P4 Radio Jukebox
+#EXTINF:0,P4 Radio Jukebox
 http://www.p4.no/lyttesenter/p4_jukebox.m3u
-#EXTINF:-1,P5 Oslo
+#EXTINF:0,P5 Oslo
 http://mms-live.online.no/P5_Oslo
-#EXTINF:-1,P5 Stavanger
+#EXTINF:0,P5 Stavanger
 http://mms-live.online.no/P5_Stavanger
-#EXTINF:-1,P5 Bergen
+#EXTINF:0,P5 Bergen
 http://mms-live.online.no/P5_Bergen
-#EXTINF:-1,P5 Trondheim
+#EXTINF:0,P5 Trondheim
 http://mms-live.online.no/P5_Trondheim
-#EXTINF:-1,Radio Norge
+#EXTINF:0,Radio Norge
 http://stream.sbsradio.no:8000/radionorge.aac
-#EXTINF:-1,Radio 1 Oslo
+#EXTINF:0,Radio 1 Oslo
 http://stream.sbsradio.no:8000/radio1oslo.aac
-#EXTINF:-1,Radio 1 Stavanger
+#EXTINF:0,Radio 1 Stavanger
 http://stream.sbsradio.no:8000/r1s.m3u
-#EXTINF:-1,Radio 1 Bergen
+#EXTINF:0,Radio 1 Bergen
 http://stream.sbsradio.no:8000/radio1bergen.aac
-#EXTINF:-1,Radio 1 Trondheim
+#EXTINF:0,Radio 1 Trondheim
 http://stream.sbsradio.no:8000/r1t.m3u
-#EXTINF:-1,The Voice Oslo
+#EXTINF:0,The Voice Oslo
 http://stream.sbsradio.no:8000/thevoiceoslo.aac
-#EXTINF:-1,The Voice Stavanger
+#EXTINF:0,The Voice Stavanger
 http://stream.sbsradio.no:8000/thevoicestavanger.aac
-#EXTINF:-1,The Voice Trondheim
+#EXTINF:0,The Voice Trondheim
 http://stream.sbsradio.no:8000/thevoicetrondheim.aac
-#EXTINF:-1,Pfem #1 for Dance
+#EXTINF:0,Pfem #1 for Dance
 http://stream.sbsradio.no:8000/pfem.aac
-#EXTINF:-1,The Beat
+#EXTINF:0,The Beat
 http://stream.sbsradio.no:8000/thebeat.aac
-#EXTINF:-1,Rock Klassiker
+#EXTINF:0,Rock Klassiker
 http://stream.sbsradio.no:8000/rockklassiker.aac
-#EXTINF:-1,Radio NRJ
+#EXTINF:0,Radio NRJ
 http://radio.nrj.net/norway/
-#EXTINF:-1,KLEM FM
+#EXTINF:0,KLEM FM
 http://radio.nrj.net/klemfm
-#EXTINF:-1,HARD FM
+#EXTINF:0,HARD FM
 http://files.hard.fm/listen.pls
-#EXTINF:-1,Radio Metro
+#EXTINF:0,Radio Metro
 http://radiometro.no/metrolisten.m3u
-#EXTINF:-1,Radio Metro Trondheim
+#EXTINF:0,Radio Metro Trondheim
 http://radiometro.no/metrolisten_trondheim.m3u
-#EXTINF:-1,Radio Metro Buskerud
+#EXTINF:0,Radio Metro Buskerud
 http://radiometro.no/metrolisten_buskerud.m3u
-#EXTINF:-1,Radio Metro Mjøsbyene
+#EXTINF:0,Radio Metro Mjøsbyene
 http://radiometro.no/metrolisten_mjosbyene.m3u
-#EXTINF:-1,Radio Metro Østfold
+#EXTINF:0,Radio Metro Østfold
 http://radiometro.no/metrolisten_ostfold.m3u
-#EXTINF:-1,Radio Metro Bergen
+#EXTINF:0,Radio Metro Bergen
 http://radiometro.no/metrolisten_bergern.m3u
-#EXTINF:-1,Radio Tango
+#EXTINF:0,Radio Tango
 http://stream.radiotango.no:8000/radiotango.m3u
-#EXTINF:-1,Radio Nova
+#EXTINF:0,Radio Nova
 http://stream.radionova.no:80/radionova-320.mp3
-#EXTINF:-1,Radio Smaalenene
+#EXTINF:0,Radio Smaalenene
 http://stream.radiosmaalenene.no:8010/listen.pls
-#EXTINF:-1,Radio Ålesund
+#EXTINF:0,Radio Ålesund
 http://212.33.131.91:8000
-#EXTINF:-1,Radio Nordkapp
+#EXTINF:0,Radio Nordkapp
 http://www.radionordkapp.no/listen.m3u
-#EXTINF:-1,Studentradion i Trondheim
+#EXTINF:0,Studentradion i Trondheim
 http://streamer.studentradion.no:8000/live128
-#EXTINF:-1,Studentadioen i Bergen
+#EXTINF:0,Studentadioen i Bergen
 http://skrue.ss.uib.no:8000/listen.pls
-#EXTINF:-1,Studentradioen i Kristiansand
+#EXTINF:0,Studentradioen i Kristiansand
 http://icecast.hia.no:80/studentradioen128
-#EXTINF:-1,Stavanger Studentradio
+#EXTINF:0,Stavanger Studentradio
 http://live.studentradio.no:8000/128.mp3
-#EXTINF:-1,Studentradioen i Gjøvik
+#EXTINF:0,Studentradioen i Gjøvik
 http://stream.hig.no:8000
-#EXTINF:-1,Studentradioen i Grimstad
+#EXTINF:0,Studentradioen i Grimstad
 http://www.studentradioen.com/grimstad/listen.m3u
-#EXTINF:-1,Radio Grenland
+#EXTINF:0,Radio Grenland
 http://91.189.181.146:8010/listen.pls
-#EXTINF:-1,Radio Tønsberg
+#EXTINF:0,Radio Tønsberg
 http://radio.itvestfold.no:9060/
-#EXTINF:-1,Radio Drammen
+#EXTINF:0,Radio Drammen
 http://stream-1.skjellin.no:8000/radio-drammen
-#EXTINF:-1,Radio Sandnes
+#EXTINF:0,Radio Sandnes
 http://91.189.181.146:8016/listen.pls
-#EXTINF:-1,Radio Tromsø
+#EXTINF:0,Radio Tromsø
 http://www.radiotromso.no/live.m3u
-#EXTINF:-1,Radio Norway
+#EXTINF:0,Radio Norway
 http://213.158.233.199:8900
-#EXTINF:-1,Radio City FM
+#EXTINF:0,Radio City FM
 http://stream-1.skjellin.no:8000/radio-city
-#EXTINF:-1,Radio Folgefonn
+#EXTINF:0,Radio Folgefonn
 http://nettradio.grafisksenter.no/folgefonn-high.m3u
-#EXTINF:-1,Radio 3 Norge
+#EXTINF:0,Radio 3 Norge
 http://www.radio3norge.no/lytte.m3u
-#EXTINF:-1,Radio Haugaland
+#EXTINF:0,Radio Haugaland
 http://radioh.no:88/broadwave.mp3
-#EXTINF:-1,Radio Kristiansand
+#EXTINF:0,Radio Kristiansand
 http://91.189.181.146:8006/listen.pls
-#EXTINF:-1,Radio Stavanger
+#EXTINF:0,Radio Stavanger
 http://91.189.181.146:8022/listen.pls
-#EXTINF:-1,Radio Moss
+#EXTINF:0,Radio Moss
 http://downstream.radio.raw.no:8000/radiomoss
-#EXTINF:-1,Radio Prime Halden
+#EXTINF:0,Radio Prime Halden
 http://primestream.monsternett.no:8000/prime.mp3
-#EXTINF:-1,Radio Prime Fredrikstad
+#EXTINF:0,Radio Prime Fredrikstad
 http://primestream.monsternett.no:8000/fredrikstad.mp3
-#EXTINF:-1,Radio Prime Moss
+#EXTINF:0,Radio Prime Moss
 http://primestream.monsternett.no:8000/moss.mp3
-#EXTINF:-1,Radio Prime Sarpsborg
+#EXTINF:0,Radio Prime Sarpsborg
 http://primestream.monsternett.no:8000/sarpsborg.mp3
-#EXTINF:-1,Radio Prime Strømstad
+#EXTINF:0,Radio Prime Strømstad
 http://primestream.monsternett.no:8000/stromstad.mp3
-#EXTINF:-1,Radio Vest - Sogn og Fjordane
+#EXTINF:0,Radio Vest - Sogn og Fjordane
 http://stream.radiovest.no/mp3.m3u
-#EXTINF:-1,Radio Sotra
+#EXTINF:0,Radio Sotra
 http://213.158.233.199:2006/listen.pls
-#EXTINF:-1,Radio Nordsjø
+#EXTINF:0,Radio Nordsjø
 http://91.189.181.146:8014/listen.pls
-#EXTINF:-1,Radio Sunnhordland
+#EXTINF:0,Radio Sunnhordland
 http://91.189.181.146:8002/listen.pls
-#EXTINF:-1,Radio Meløy
+#EXTINF:0,Radio Meløy
 http://stream.radiomeloy.no:8001/128
-#EXTINF:-1,Radio Oksnes
+#EXTINF:0,Radio Oksnes
 http://nettradio.grafisksenter.no/radiooksnes-high.m3u
-#EXTINF:-1,Radio Lyngdal
+#EXTINF:0,Radio Lyngdal
 http://85.19.210.102:8080
-#EXTINF:-1,Radio Bø
+#EXTINF:0,Radio Bø
 http://nettradio.grafisksenter.no:80/radiobo-high
-#EXTINF:-1,LiquidFM
+#EXTINF:0,LiquidFM
 http://213.158.233.199:8000/listen.pls
-#EXTINF:-1,Askøy Lokalradio
+#EXTINF:0,Askøy Lokalradio
 http://213.158.233.199:8577/
-#EXTINF:-1,Jærradioen
+#EXTINF:0,Jærradioen
 http://91.189.181.146:8018/listen.pls
-#EXTINF:-1,HitCity.no
+#EXTINF:0,HitCity.no
 http://srv1.dab.no:8080
-#EXTINF:-1,Slipstvang
+#EXTINF:0,Slipstvang
 http://83.143.85.115:8900/listen.pls
-#EXTINF:-1,RadioMix
+#EXTINF:0,RadioMix
 http://auby.no-ip.com/static/playlists/radiomix.m3u
-#EXTINF:-1,Radio Latin-Amerika
+#EXTINF:0,Radio Latin-Amerika
 http://mp3.sc.kq.no:8000/latinam.m3u
-#EXTINF:-1,RadioVolum
+#EXTINF:0,RadioVolum
 http://gugel.no/listen.pls
-#EXTINF:-1,Radio Atlantic
+#EXTINF:0,Radio Atlantic
 http://91.189.181.146:8020/listen.pls
-#EXTINF:-1,Radio Filadelfia
+#EXTINF:0,Radio Filadelfia
 http://83.143.85.115:2600/listen.pls
-#EXTINF:-1,HitZone24
+#EXTINF:0,HitZone24
 http://213.158.233.199:8900/listen.pls
-#EXTINF:-1,Scandiradioen
+#EXTINF:0,Scandiradioen
 http://srv1.dab.no:6660
-#EXTINF:-1,Pitch Radio
+#EXTINF:0,Pitch Radio
 http://83.143.85.115:8004/listen.pls
-#EXTINF:-1,Radio Festival
+#EXTINF:0,Radio Festival
 http://213.158.233.199:2006/listen.pls
-#EXTINF:-1,mmprem
+#EXTINF:0,mmprem
 http://213.158.233.199:8020/listen.pls
-#EXTINF:-1,Norsk Country Musikk
+#EXTINF:0,Norsk Country Musikk
 http://i1.no/05oh/
-#EXTINF:-1,Skranglebass	
+#EXTINF:0,Skranglebass	
 http://www.skranglebass.no/live.m3u
-#EXTINF:-1,Radioplanet
+#EXTINF:0,Radioplanet
 http://radioplanet.no/listen.m3u
-#EXTINF:-1,Radio Beiarn
+#EXTINF:0,Radio Beiarn
 http://83.143.85.115:8500/listen.pls
-#EXTINF:-1,Radio Ung
+#EXTINF:0,Radio Ung
 http://212.125.206.42:8006/listen.pls
-#EXTINF:-1,Radio Loland
+#EXTINF:0,Radio Loland
 http://nettradio.grafisksenter.no/loland-high.m3u
-#EXTINF:-1,PVest
+#EXTINF:0,PVest
 http://sc7.spacialnet.com:22204/listen.pls
-#EXTINF:-1,GLR Live
+#EXTINF:0,GLR Live
 http://nettradio.grafisksenter.no:80/glr-med
-#EXTINF:-1,Innlandet Nærradio
+#EXTINF:0,Innlandet Nærradio
 http://nettradio.grafisksenter.no:80/innlandet-med
-#EXTINF:-1,MMRadio
+#EXTINF:0,MMRadio
 http://213.158.233.199:8128/listen.pls
-#EXTINF:-1,Radio 102
+#EXTINF:0,Radio 102
 http://downstream.radio.raw.no:8000/radio102
-#EXTINF:-1,Radio Power
+#EXTINF:0,Radio Power
 http://91.189.181.146:8004/listen.pls
-#EXTINF:-1,Carlings Radio
+#EXTINF:0,Carlings Radio
 http://stream.radiotango.no:8000/carlings.m3u
-#EXTINF:-1,NRK P1 Østlandssendingen
+#EXTINF:0,NRK P1 Østlandssendingen
 http://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_h
-#EXTINF:-1,NRK P1 Troms
+#EXTINF:0,NRK P1 Troms
 http://lyd.nrk.no/nrk_radio_p1_troms_mp3_h
-#EXTINF:-1,NRK P1 Trøndelag
+#EXTINF:0,NRK P1 Trøndelag
 http://lyd.nrk.no/nrk_radio_p1_trondelag_mp3_h
-#EXTINF:-1,NRK P1 Telemark
+#EXTINF:0,NRK P1 Telemark
 http://lyd.nrk.no/nrk_radio_p1_telemark_mp3_h
-#EXTINF:-1,NRK P1 Østfold
+#EXTINF:0,NRK P1 Østfold
 http://lyd.nrk.no/nrk_radio_p1_ostfold_mp3_h
-#EXTINF:-1,NRK P1 Rogaland
+#EXTINF:0,NRK P1 Rogaland
 http://lyd.nrk.no/nrk_radio_p1_rogaland_mp3_h
-#EXTINF:-1,NRK P1 Sogn Og Fjordane
+#EXTINF:0,NRK P1 Sogn Og Fjordane
 http://lyd.nrk.no/nrk_radio_p1_sogn_og_fjordane_mp3_h
-#EXTINF:-1,NRK P1 Sørlandet
+#EXTINF:0,NRK P1 Sørlandet
 http://lyd.nrk.no/nrk_radio_p1_sorlandet_mp3_h
-#EXTINF:-1,NRK P1 Møre Og Romsdal
+#EXTINF:0,NRK P1 Møre Og Romsdal
 http://lyd.nrk.no/nrk_radio_p1_more_og_romsdal_mp3_h
-#EXTINF:-1,NRK P1 Buskerud
+#EXTINF:0,NRK P1 Buskerud
 http://lyd.nrk.no/nrk_radio_p1_buskerud_mp3_h
-#EXTINF:-1,NRK P1 Finnmark
+#EXTINF:0,NRK P1 Finnmark
 http://lyd.nrk.no/nrk_radio_p1_finnmark_mp3_h
-#EXTINF:-1,NRK P1 Hedmark og Oppland
+#EXTINF:0,NRK P1 Hedmark og Oppland
 http://lyd.nrk.no/nrk_radio_p1_hedmark_og_oppland_mp3_h
-#EXTINF:-1,NRK P1 Hordaland
+#EXTINF:0,NRK P1 Hordaland
 http://lyd.nrk.no/nrk_radio_p1_hordaland_mp3_h
-#EXTINF:-1,NRK P1 Vestfold
+#EXTINF:0,NRK P1 Vestfold
 http://lyd.nrk.no/nrk_radio_p1_vestfold_mp3_h
-#EXTINF:-1,NRK P1 Nordland
+#EXTINF:0,NRK P1 Nordland
 http://lyd.nrk.no/nrk_radio_p1_nordland_mp3_h
-#EXTINF:-1,NordicRadio
+#EXTINF:0,NordicRadio
 http://213.158.233.199:8080/listen.pls
-#EXTINF:-1,Powershout: Partymix 70s and 80s
+#EXTINF:0,Powershout: Partymix 70s and 80s
 http://213.158.233.199:8025
-#EXTINF:-1,Powershout: Progressive Goa/Psy Trance
+#EXTINF:0,Powershout: Progressive Goa/Psy Trance
 http://213.158.233.199:7955/
-#EXTINF:-1,Powershout: Prog - Deep-Minimal House
+#EXTINF:0,Powershout: Prog - Deep-Minimal House
 http://213.158.233.199:8030/
-#EXTINF:-1,Politiradio Oslo
+#EXTINF:0,Politiradio Oslo
 http://oslo.servebeer.com:8000/
-#EXTINF:-1,AudioRealm: Lindin Kristiligt Kringvarp
+#EXTINF:0,AudioRealm: Lindin Kristiligt Kringvarp
 http://sc4.spacialnet.com:14326/listen.pls
