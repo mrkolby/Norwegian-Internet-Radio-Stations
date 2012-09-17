@@ -89,11 +89,11 @@ http://stream.sbsradio.no:8000/radionorge.aac
 #EXTINF:0,Radio 1 Oslo
 http://stream.sbsradio.no:8000/radio1oslo.aac
 #EXTINF:0,Radio 1 Stavanger
-http://stream.sbsradio.no:8000/r1s.m3u
+http://stream.sbsradio.no:8000/radio1stavanger.aac
 #EXTINF:0,Radio 1 Bergen
 http://stream.sbsradio.no:8000/radio1bergen.aac
 #EXTINF:0,Radio 1 Trondheim
-http://stream.sbsradio.no:8000/r1t.m3u
+http://stream.sbsradio.no:8000/radio1trondheim.aac
 #EXTINF:0,The Voice Oslo
 http://stream.sbsradio.no:8000/thevoiceoslo.aac
 #EXTINF:0,The Voice Stavanger
