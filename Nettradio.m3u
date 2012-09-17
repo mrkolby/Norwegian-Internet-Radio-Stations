@@ -173,7 +173,7 @@ http://91.189.181.146:8002/listen.pls
 #EXTINF:0,Radio Meløy
 http://stream.radiomeloy.no:8001/128
 #EXTINF:0,Radio Lyngdal
-http://85.19.210.102:8080
+http://server2.v.asphost.no:8000/listen.pls
 #EXTINF:0,LiquidFM
 http://213.158.233.199:8000/listen.pls
 #EXTINF:0,Askøy Lokalradio
