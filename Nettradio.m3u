@@ -134,8 +134,6 @@ http://radio.srib.no:8888/srib.mp3.m3u
 http://lyd.uia.no:8010/listen.pls
 #EXTINF:0,Studentradioen i Gjøvik
 http://stream.hig.no:8000
-#EXTINF:0,Studentradioen i Grimstad
-http://www.studentradioen.com/grimstad/listen.m3u
 #EXTINF:0,Radio Grenland
 http://91.189.181.146:8010/listen.pls
 #EXTINF:0,Radio Tønsberg
