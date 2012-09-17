@@ -210,8 +210,6 @@ http://213.158.233.199:2006/listen.pls
 http://213.158.233.199:8020/listen.pls
 #EXTINF:0,Norsk Country Musikk
 http://i1.no/05oh/
-#EXTINF:0,Skranglebass	
-http://www.skranglebass.no/live.m3u
 #EXTINF:0,Radioplanet
 http://radioplanet.no/listen.m3u
 #EXTINF:0,Radio Beiarn
