@@ -96,10 +96,6 @@ http://stream.sbsradio.no:8000/radio1bergen.aac
 http://stream.sbsradio.no:8000/radio1trondheim.aac
 #EXTINF:0,The Voice Oslo
 http://stream.sbsradio.no:8000/thevoiceoslo.aac
-#EXTINF:0,The Voice Stavanger
-http://stream.sbsradio.no:8000/thevoicestavanger.aac
-#EXTINF:0,The Voice Trondheim
-http://stream.sbsradio.no:8000/thevoicetrondheim.aac
 #EXTINF:0,Pfem #1 for Dance
 http://stream.sbsradio.no:8000/pfem.aac
 #EXTINF:0,The Beat
