@@ -172,8 +172,6 @@ http://91.189.181.146:8014/listen.pls
 http://91.189.181.146:8002/listen.pls
 #EXTINF:0,Radio Meløy
 http://stream.radiomeloy.no:8001/128
-#EXTINF:0,Radio Oksnes
-http://nettradio.grafisksenter.no/radiooksnes-high.m3u
 #EXTINF:0,Radio Lyngdal
 http://85.19.210.102:8080
 #EXTINF:0,Radio Bø
