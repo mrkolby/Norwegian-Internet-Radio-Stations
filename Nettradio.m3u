@@ -146,8 +146,6 @@ http://213.158.233.199:8900
 http://www.radio3norge.no/lytte.m3u
 #EXTINF:0,Radio Haugaland
 http://radioh.no:88/broadwave.mp3
-#EXTINF:0,Radio Kristiansand
-http://91.189.181.146:8006/listen.pls
 #EXTINF:0,Radio Stavanger
 http://91.189.181.146:8022/listen.pls
 #EXTINF:0,Radio Moss
