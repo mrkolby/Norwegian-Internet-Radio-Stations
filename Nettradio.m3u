@@ -142,9 +142,7 @@ http://213.158.233.199:9060/listen.pls
 http://204.232.197.158:8016/listen.pls
 #EXTINF:0,jamfm.se
 http://213.158.233.199:8900
-#EXTINF:0,Radio Folgefonn
-http://nettradio.grafisksenter.no/folgefonn-high.m3u
-#EXTINF:0,Radio 3 Norge
+#EXTINF:0,Radio 3 Norge
 http://www.radio3norge.no/lytte.m3u
 #EXTINF:0,Radio Haugaland
 http://radioh.no:88/broadwave.mp3
