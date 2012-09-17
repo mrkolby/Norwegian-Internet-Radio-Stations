@@ -138,9 +138,7 @@ http://stream.hig.no:8000
 http://204.232.197.158:8020/listen.pls
 #EXTINF:0,Radio Tønsberg
 http://213.158.233.199:9060/listen.pls
-#EXTINF:0,Radio Drammen
-http://stream-1.skjellin.no:8000/radio-drammen
-#EXTINF:0,Radio Sandnes
+#EXTINF:0,Radio Sandnes
 http://91.189.181.146:8016/listen.pls
 #EXTINF:0,Radio Tromsø
 http://www.radiotromso.no/live.m3u
