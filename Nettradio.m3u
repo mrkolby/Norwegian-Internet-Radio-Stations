@@ -142,8 +142,6 @@ http://213.158.233.199:9060/listen.pls
 http://204.232.197.158:8016/listen.pls
 #EXTINF:0,jamfm.se
 http://213.158.233.199:8900
-#EXTINF:0,Radio City FM
-http://stream-1.skjellin.no:8000/radio-city
 #EXTINF:0,Radio Folgefonn
 http://nettradio.grafisksenter.no/folgefonn-high.m3u
 #EXTINF:0,Radio 3 Norge
