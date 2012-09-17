@@ -180,8 +180,6 @@ http://213.158.233.199:8000/listen.pls
 http://213.158.233.199:8577/
 #EXTINF:0,Jærradioen
 http://204.232.197.158:8018/listen.pls
-#EXTINF:0,HitCity.no
-http://srv1.dab.no:8080
 #EXTINF:0,Slipstvang
 http://83.143.85.115:8900/listen.pls
 #EXTINF:0,RadioMix
