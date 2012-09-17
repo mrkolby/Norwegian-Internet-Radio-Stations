@@ -132,8 +132,6 @@ http://streamer.studentradion.no:8000/live128
 http://radio.srib.no:8888/srib.mp3.m3u
 #EXTINF:0,Studentradioen i Kristiansand
 http://lyd.uia.no:8010/listen.pls
-#EXTINF:0,Stavanger Studentradio
-http://live.studentradio.no:8000/128.mp3
 #EXTINF:0,Studentradioen i Gjøvik
 http://stream.hig.no:8000
 #EXTINF:0,Studentradioen i Grimstad
