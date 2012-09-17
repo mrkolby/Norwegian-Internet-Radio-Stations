@@ -212,8 +212,6 @@ http://radioplanet.no/listen.m3u
 http://83.143.85.115:8500/listen.pls
 #EXTINF:0,Radio Ung
 http://212.125.206.42:8006/listen.pls
-#EXTINF:0,Radio Loland
-http://nettradio.grafisksenter.no/loland-high.m3u
 #EXTINF:0,PVest
 http://sc7.spacialnet.com:22204/listen.pls
 #EXTINF:0,GLR Live
