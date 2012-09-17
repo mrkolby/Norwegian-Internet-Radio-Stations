@@ -119,7 +119,7 @@ http://radiometro.no/metrolisten_mjosbyene.m3u
 #EXTINF:0,Radio Metro Østfold
 http://radiometro.no/metrolisten_ostfold.m3u
 #EXTINF:0,Radio Nova
-http://stream.radionova.no:80/radionova-320.mp3
+http://stream.radionova.no:80/fm993.mp3
 #EXTINF:0,Radio Smaalenene
 http://stream.radiosmaalenene.no:8010/listen.pls
 #EXTINF:0,Radio Ålesund
