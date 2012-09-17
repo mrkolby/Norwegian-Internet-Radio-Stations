@@ -137,7 +137,7 @@ http://stream.hig.no:8000
 #EXTINF:0,Radio Grenland
 http://204.232.197.158:8020/listen.pls
 #EXTINF:0,Radio Tønsberg
-http://radio.itvestfold.no:9060/
+http://213.158.233.199:9060/listen.pls
 #EXTINF:0,Radio Drammen
 http://stream-1.skjellin.no:8000/radio-drammen
 #EXTINF:0,Radio Sandnes
