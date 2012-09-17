@@ -72,6 +72,8 @@ http://www.p4.no/lyttesenter/p4_ballade.m3u
 http://www.p4.no/lyttesenter/p4_hits.m3u
 #EXTINF:0,P4 Radio Retro
 http://www.p4.no/lyttesenter/p4_radioretro.m3u
+#EXTINF:0,P4 Tidenes favoritter
+http://www.p4.no/lyttesenter/p4_tema.m3u
 #EXTINF:0,P5 Oslo
 http://mms-live.online.no/P5_Oslo
 #EXTINF:0,P5 Stavanger
