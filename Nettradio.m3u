@@ -204,8 +204,6 @@ http://srv1.dab.no:6660
 http://83.143.85.115:8004/listen.pls
 #EXTINF:0,Radio Festival
 http://213.158.233.199:2006/listen.pls
-#EXTINF:0,mmprem
-http://213.158.233.199:8020/listen.pls
 #EXTINF:0,Norsk Country Musikk
 http://i1.no/05oh/
 #EXTINF:0,Radioplanet
