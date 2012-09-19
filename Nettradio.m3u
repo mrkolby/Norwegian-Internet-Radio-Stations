@@ -212,8 +212,6 @@ http://srv1.dab.no:2192/listen.pls
 http://sc7.spacialnet.com:22204/listen.pls
 #EXTINF:0,Radio 102
 http://downstream.radio.raw.no:8000/radio102
-#EXTINF:0,Radio Power
-http://91.189.181.146:8004/listen.pls
 #EXTINF:0,Carlings Radio
 http://stream.radiotango.no:8000/carlings.m3u
 #EXTINF:0,NordicRadio
