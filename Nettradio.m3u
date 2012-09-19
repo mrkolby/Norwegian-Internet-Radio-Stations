@@ -108,6 +108,8 @@ http://radio.nrj.net/norway/
 http://klemfm.no/audio/klemfm.pls
 #EXTINF:0,HARD FM
 http://files.hard.fm/listen.pls
+#EXTINF:0,1FM
+http://213.158.233.199:2012/listen.pls
 #EXTINF:0,Radio Metro
 http://radiometro.no/metrolisten.m3u
 #EXTINF:0,Radio Metro Trondheim
