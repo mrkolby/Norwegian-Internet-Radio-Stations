@@ -196,6 +196,8 @@ http://83.143.85.115:2600/listen.pls
 http://213.158.233.199:8900/listen.pls
 #EXTINF:0,Metal Express Radio
 http://usa7-vn.mixstream.net/listen/8248.pls
+#EXTINF:0,Nærkanalen
+http://www.narkanalen.no/high.m3u
 #EXTINF:0,Scandiradioen
 http://www.scandiradioen.net/gammel/Server2.m3u
 #EXTINF:0,Pitch Radio
