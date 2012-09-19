@@ -188,9 +188,7 @@ http://204.232.197.158:8018/listen.pls
 http://83.143.85.115:8900/listen.pls
 #EXTINF:0,Radio Atlantic
 http://204.232.197.158:8022/listen.pls
-#EXTINF:0,Radio Filadelfia
-http://83.143.85.115:2600/listen.pls
-#EXTINF:0,Radio Sør
+#EXTINF:0,Radio Sør
 http://85.19.68.34:8006/listen.pls
 #EXTINF:0,HitZone24
 http://213.158.233.199:8900/listen.pls
