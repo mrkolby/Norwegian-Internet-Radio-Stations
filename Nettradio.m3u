@@ -210,8 +210,6 @@ http://radioplanet.no/listen.m3u
 http://srv1.dab.no:2192/listen.pls
 #EXTINF:0,PVest
 http://sc7.spacialnet.com:22204/listen.pls
-#EXTINF:0,MMRadio
-http://213.158.233.199:8128/listen.pls
 #EXTINF:0,Radio 102
 http://downstream.radio.raw.no:8000/radio102
 #EXTINF:0,Radio Power
