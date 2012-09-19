@@ -126,6 +126,8 @@ http://stream.radionova.no:80/fm993.mp3
 http://stream.radiosmaalenene.no:8010/listen.pls
 #EXTINF:0,Radio Ålesund
 http://204.232.197.158:8008/listen.pls
+#EXTINF:0,Radio 102 Haugesund
+http://downstream.radio.raw.no:8000/radio102.m3u
 #EXTINF:0,Radio Nordkapp
 http://www.radionordkapp.no/listen.m3u
 #EXTINF:0,Radio Revolt
