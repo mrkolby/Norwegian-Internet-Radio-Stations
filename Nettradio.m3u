@@ -216,15 +216,10 @@ http://radioplanet.no/listen.m3u
 http://srv1.dab.no:2192/listen.pls
 #EXTINF:0,PVest
 http://sc7.spacialnet.com:22204/listen.pls
-
 #EXTINF:0,CEP Workout
 http://stream.sbsradio.no:8000/instore-workout.aac.m3u
-
-#EXTINF:0,PVest
-http://sc7.spacialnet.com:22204/listen.pls
-#EXTINF:0,PVest
-http://sc7.spacialnet.com:22204/listen.pls
-
+#EXTINF:0,Ordentlig Radio
+http://mms-live.online.no/oradio_mp3_m.m3u
 #EXTINF:0,Radio 102
 http://downstream.radio.raw.no:8000/radio102
 #EXTINF:0,Carlings Radio
