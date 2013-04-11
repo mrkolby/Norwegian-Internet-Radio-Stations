@@ -102,8 +102,8 @@ http://stream.sbsradio.no:8000/pfem.aac
 http://mp3.901rox.no:8080/stream/9
 #EXTINF:0,The Beat
 http://thebeat.no/thebeatlisten.m3u
-#EXTINF:0,Rock Klassiker
-http://stream.sbsradio.no:8000/rockklassiker.aac
+#EXTINF:0,Radio Rock
+http://stream.sbsradio.no:8000/radiorock.aac.m3u
 #EXTINF:0,Radio NRJ
 http://radio.nrj.net/norway/
 #EXTINF:0,KLEM FM
