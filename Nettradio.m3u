@@ -182,6 +182,8 @@ http://stream.radiomeloy.no:8001/128
 http://server2.v.asphost.no:8000/listen.pls
 #EXTINF:0,Radio Modum
 http://media.radiomodum.no:8000/listen.pls
+#EXTINF:0,Radio Nostalgi
+http://kundeweb.aggressive.no/users/carambolegroup.no/stream/nostalgi.m3u
 #EXTINF:0,LiquidFM
 http://213.158.233.199:8000/listen.pls
 #EXTINF:0,Askøy Lokalradio
