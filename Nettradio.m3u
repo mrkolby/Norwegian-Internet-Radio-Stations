@@ -86,6 +86,8 @@ http://mms-live.online.no/P5_Bergen
 http://mms-live.online.no/P5_Trondheim
 #EXTINF:0,Radio Norge
 http://stream.sbsradio.no:8000/radionorge.aac
+#EXTINF:0,Radio Norge Topp 1000
+http://stream.sbsradio.no:8000/topp1000.mp3.m3u
 #EXTINF:0,Radio 1 Oslo
 http://stream.sbsradio.no:8000/radio1oslo.aac
 #EXTINF:0,Radio 1 Stavanger
