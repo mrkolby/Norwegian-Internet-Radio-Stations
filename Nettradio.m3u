@@ -98,8 +98,10 @@ http://stream.sbsradio.no:8000/radio1trondheim.aac
 http://stream.sbsradio.no:8000/thevoiceoslo.aac
 #EXTINF:0,Pfem #1 for Dance
 http://stream.sbsradio.no:8000/pfem.aac
+#EXTINF:0,ROX 90.1
+http://mp3.901rox.no:8080/stream/9
 #EXTINF:0,The Beat
-http://stream.sbsradio.no:8000/thebeat.aac
+http://thebeat.no/thebeatlisten.m3u
 #EXTINF:0,Rock Klassiker
 http://stream.sbsradio.no:8000/rockklassiker.aac
 #EXTINF:0,Radio NRJ
